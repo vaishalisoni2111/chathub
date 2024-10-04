@@ -8,3 +8,4 @@ router.post('/login', login)
 router.get('/allUsers', allUsers)
 
 export default router;
+ 
